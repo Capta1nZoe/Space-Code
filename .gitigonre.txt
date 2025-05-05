@@ -1,0 +1,12 @@
+# Unity .gitignore (частично)
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Aa]ssets/AssetStoreTools*
+/[Pp]ackages/
+*.cs.meta
+*.asset.meta
+*.prefab.meta
+*.unity.meta

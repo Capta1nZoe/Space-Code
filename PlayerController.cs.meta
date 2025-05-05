@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7f81f9cb6a2287d40895ff29c37ec917
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - tileManager: {instanceID: 0}
+  - spriteRenderer: {instanceID: 0}
+  - upSprite: {fileID: 156998958, guid: b86eebd54a0270f4dbb0b170aadf0e3a, type: 3}
+  - downSprite: {fileID: -967840669, guid: b86eebd54a0270f4dbb0b170aadf0e3a, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
